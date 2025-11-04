@@ -5,16 +5,16 @@ In this one‑stop tutorial you’ll build a production‑ready real‑time soci
 
 # 🧑‍🍳 App Features Overview
 
-🔐 Google Auth via Clerk (seamless one‑tap login)
-🏠 Home Feed with stories + posts, pull‑to‑refresh & logout
-❤️ Like / Comment with live updates for everyone
-📑 Bookmarks Screen to save and review posts
-➕ Create Post — select image, add caption, share instantly
-🔔 Notifications — like, follow & comment events with deep links
-👤 Profile — stats, posts, animated edit‑profile modal
-🔄 Follow / Unfollow other users
-🗑️ Delete Own Posts with confirmation alert
-🎨 Custom fonts & splash / app icon included
+- 🔐 Google Auth via Clerk (seamless one‑tap login)
+- 🏠 Home Feed with stories + posts, pull‑to‑refresh & logout
+- ❤️ Like / Comment with live updates for everyone
+- 📑 Bookmarks Screen to save and review posts
+- ➕ Create Post — select image, add caption, share instantly
+- 🔔 Notifications — like, follow & comment events with deep links
+- 👤 Profile — stats, posts, animated edit‑profile modal
+- 🔄 Follow / Unfollow other users
+- 🗑️ Delete Own Posts with confirmation alert
+- 🎨 Custom fonts & splash / app icon included
 
 # Welcome to your Expo app 👋
 
